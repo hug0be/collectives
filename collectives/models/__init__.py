@@ -14,3 +14,4 @@ from .role import Role, RoleIds
 from .user import User, Gender, avatars
 from .auth import ConfirmationToken, ConfirmationTokenType
 from .payment import PaymentItem, ItemPrice, PaymentStatus, Payment, PaymentType
+from .configuration import Configuration
